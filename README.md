@@ -12,7 +12,7 @@ A high-level visual diagram of DUTD can be seen below.
 <p align="left">
 <img width="30%" src="https://i.imgur.com/7GuHNXm.png">
 
-[comment]: <> (<a href="url"><img src="https://i.imgur.com/7GuHNXm.png" align="left" height="400" width="400" ></a>)
+[comment]: <> (<a href="url"><img src="https://i.imgur.com/7GuHNXm.png" align="left" height="600" width="600" ></a>)
 </p>
 
 If you find our work useful, please reference in your paper:
