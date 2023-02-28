@@ -9,7 +9,7 @@ A high-level visual diagram of DUTD can be seen below.
 
 
 
-<p align="left">
+<p align="center">
 <img width="50%" src="https://i.imgur.com/7GuHNXm.png">
 
 [comment]: <> (<a href="url"><img src="https://i.imgur.com/7GuHNXm.png" align="left" height="600" width="600" ></a>)
